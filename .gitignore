@@ -1,0 +1,10 @@
+# Backend
+robot-fleet-backend/venv/
+robot-fleet-backend/__pycache__/
+
+# Frontend
+robot-fleet-frontend/node_modules/
+
+# General
+.DS_Store
+.env
